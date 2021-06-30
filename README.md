@@ -2,7 +2,7 @@
 
 ## A repository that contains refactored source code meant to improve the quality of code displayed ensuring simple navigation and accessibility of the URL.
 
-I'm motivated to showcase the improvements in specificity and simplifying the source code resulting in well-organized code without altering the appearance or functionality of the website.
+Motivated to showcase the improvements in specificity and simplifying the source code resulting in well-organized code without altering the appearance or functionality of the website.
 
 The project was built to ensure a better interface and to exceed accessibility standards.
 
